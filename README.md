@@ -190,13 +190,13 @@ Flight Ticket Price Prediction
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Flight-Ticket-Price-Prediction.git
+git clone https://github.com/Manojg14/flight-ticket-price-prediction-linear-regression.git
 ```
 
 ### Navigate to the project directory
 
 ```bash
-cd Flight-Ticket-Price-Prediction
+cd flight-ticket-price-prediction-linear-regression
 ```
 
 ### Launch Jupyter Notebook
